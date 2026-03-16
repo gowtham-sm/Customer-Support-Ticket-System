@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11605.240 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupportTicketClient", "SupportTicketClient.csproj", "{A9EABA09-6591-C942-53ED-A6392A0E9DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9EABA09-6591-C942-53ED-A6392A0E9DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EABA09-6591-C942-53ED-A6392A0E9DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EABA09-6591-C942-53ED-A6392A0E9DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EABA09-6591-C942-53ED-A6392A0E9DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {396B1616-F30A-446B-8E42-8BE983C67D36}
+	EndGlobalSection
+EndGlobal
