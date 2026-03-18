@@ -1,7 +1,7 @@
 # Customer Support Ticket System
 
 ## Project Overview
-A robust, decoupled Customer Support Ticket System featuring a Windows Desktop Application (Frontend) and an ASP.NET Web API (Backend)[cite: 121]. The system allows standard users to submit and track support tickets, while granting Administrators the ability to assign tickets, update statuses, and log internal comments. The desktop client communicates exclusively with the MySQL database via RESTful JSON HTTP requests, ensuring strict adherence to multi-tier architecture principles.
+A robust, decoupled Customer Support Ticket System featuring a Windows Desktop Application (Frontend) and an ASP.NET Web API (Backend). The system allows standard users to submit and track support tickets, while granting Administrators the ability to assign tickets, update statuses, and log internal comments. The desktop client communicates exclusively with the MySQL database via RESTful JSON HTTP requests, ensuring strict adherence to multi-tier architecture principles.
 
 ## Tech Stack Used
 * **Frontend:** C# WPF (Windows Presentation Foundation)
